@@ -13,7 +13,11 @@ local GROUP_SETTINGS = {
 	health_station = { disable = "disable_health_stations", duration = "duration_health_stations", default = 10 },
 	location_ping = { disable = "disable_location_pings", duration = "duration_location_pings", default = 60 },
 	location_threat = { disable = "disable_threat_warnings", duration = "duration_threat_warnings", default = 30 },
-	location_attention = { disable = "disable_attention_warnings", duration = "duration_attention_warnings", default = 30 },
+	location_attention = {
+		disable = "disable_attention_warnings",
+		duration = "duration_attention_warnings",
+		default = 30,
+	},
 }
 
 local function is_disabled(group)
