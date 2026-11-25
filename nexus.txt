@@ -26,4 +26,4 @@ Adjust how long pings stay visible. As well as mute and disable certain pings.
 [/spoiler]
 
 [b]Links:[/b]
-[url=https://github.com/MaddyMarv/Ping-duration-changer]Source Code[/url] | [url=https://www.nexusmods.com/profile/indicabunny]Nexus Mods Profile[/url] | [url=https://ko-fi.com/indicabunny]Support Me on Ko-fi[/url]
+[url=https://github.com/MaddyMarv/Ping-Duration-Changer]Source Code[/url] | [url=https://www.nexusmods.com/profile/indicabunny]Nexus Mods Profile[/url] | [url=https://ko-fi.com/indicabunny]Support Me on Ko-fi[/url]
