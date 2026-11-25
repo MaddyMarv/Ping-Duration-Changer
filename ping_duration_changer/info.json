@@ -7,7 +7,7 @@
     "funding": {
         "kofi": "https://ko-fi.com/indicabunny"
     },
-    "description": "Adjust how long pings stay visible. As well as mute and disable certain pings.",
+    "description": "Adjust how long pings stay visible, and mute or disable certain pings.",
     "dependencies": {
         "required": [],
         "self_after": [],
